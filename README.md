@@ -24,4 +24,4 @@ SpOOtify es, obviamente, la versión orientada a objetos de Spotify. En Spotify 
 
 1. ![UML](./spOOtifyUML.png)
 2. Empezando a hacer los [Tests necesarios](/test/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/)
-**3. y 4.** Realizando de a poco la [implementacion](/main/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/) de los casos de JUnit a mi solucion.
+3. y 4. Realizando de a poco la [implementacion](/main/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/) de los casos de JUnit a mi solucion.
