@@ -6,4 +6,9 @@ public class Author {
 		// TODO Auto-generated constructor stub
 	}
 
+	public void addSong(Song song) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

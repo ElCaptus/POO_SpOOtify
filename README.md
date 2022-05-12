@@ -23,5 +23,10 @@ SpOOtify es, obviamente, la versión orientada a objetos de Spotify. En Spotify 
 ## SOLUCION
 
 1. ![UML](./spOOtifyUML.png)
-2. Empezando a hacer los [Tests necesarios](/test/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/)
-3. y 4. Realizando de a poco la [implementacion](/main/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/) de los casos de JUnit a mi solucion.
+2. Tests a realizar: 
+    - Buscar canciones por Autor - Genero - Album - Titulo.
+    - Agregar y Borrar canciones a MyMusic.
+    - Verificar que cada cancion conozca a su autor y album.
+    - Verificar que esten todos los autores y usuarios registrados en SpOOtify.
+3. [Tests del punto 2 Implementados.](/test/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/)
+4. Realizando de a poco la [implementacion](/main/java/ar/edu/unlp/info/oo2/practica5_ejercicio1/) de los casos de JUnit a mi solucion.
